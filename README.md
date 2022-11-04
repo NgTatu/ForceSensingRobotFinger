@@ -27,7 +27,7 @@ The model LeNet and AlexNet show good generalization and were then evaluated on 
 | AlexNet      | 0.0013         | 0.0045           | 0.0038           |
 
 # Demonstration
-After taking in an input image, the system generates an output image of the same size in which the pixel value represents the force value. As the object
+Here, a simple demonstration is conducted to prove the feasibility of a force sensing system using the AlexNet model. After taking in an input image, the system generates an output image of the same size in which the pixel value represents the force value. As the object
 pushes into diﬀerent areas on the skin, the corresponding positions on the output prediction image change into darker color.
 
 <img src='img/demo.jpg'/>
