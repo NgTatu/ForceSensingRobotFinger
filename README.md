@@ -1,2 +1,2 @@
 # ForceSensingRobotFinger
-This work proposes a method for force sensing using deep learning models for robot fingers having transparent soft skin.
+This work proposes a method for force sensing using deep learning models for robot fingers having transparent soft skin. The system can successfully remove the background noise in the photos containing the deformation information of the fnger skin. The images are then used as the input for a deep learning model, which predicts the position and magnitude of the exerted force.
